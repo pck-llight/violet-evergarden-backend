@@ -1,34 +1,5 @@
-# 가상 환경 디렉토리
-venv/
-violetenv/
-
-# Python 기본 파일
-__pycache__/
-*.py[cod]
-*.pyo
-*.pyd
-
-# 환경 변수 및 설정 파일
 .env
-*.env
-
-# 데이터베이스 파일
-*.db
-*.sqlite3
-
-# 운영체제 별 파일
-.DS_Store  # macOS
-Thumbs.db  # Windows
-
-# 파이썬 패키지 관리 파일
-pip-log.txt
-pip-delete-this-directory.txt
-
-# PyCharm 디렉토리
-.idea/
-
-# VS Code 디렉토리
-.vscode/
-
-# 로그 파일
-*.log
+violetEnv
+.idea
+__pycache__
+.DS_Store
